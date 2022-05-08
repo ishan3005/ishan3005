@@ -1,6 +1,6 @@
 ### 
 
-https://user-images.githubusercontent.com/60708906/167310643-6175b5a0-ebc9-422d-a89c-35dec1cd0d43.mp4
+![Black Technology LinkedIn Banner (1)](https://user-images.githubusercontent.com/60708906/167310828-f59baee7-9457-43ad-a3b8-28529b840238.gif)
 
 
 
