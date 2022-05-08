@@ -10,9 +10,16 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on analytics📈 and various visulization tools like power bi, excel, tableau...
 - 🌱 I’m currently learning machine learning ,data analytics
--
-- 📫 How to reach me: 👨‍🏭 www.linkedin.com/in/ishanmatah30
-- 
-                      📧 ishanmatah30@gmail.com
+- 📫 How to reach me: 📧 ishanmatah30@gmail.com
 
--->
+
+### Social links ###
+[![LinkedIn][2.2]][2]
+
+<!-- Icons -->
+
+[2.2]: https://user-images.githubusercontent.com/72257400/148107604-158f3e03-d3c4-41a6-ba1f-0901a69e4437.png
+
+<!-- Links to your social media accounts -->
+
+[2]: http://www.linkedin.com/in/ishanmatah30
