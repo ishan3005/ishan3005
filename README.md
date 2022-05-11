@@ -4,7 +4,7 @@
 
 
 
-**ishan3005/ishan3005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ishan3005/ishan3005** 
 
 
 
